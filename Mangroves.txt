@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+<link rel="stylesheet" href="style.css"/>
+<head>
+<title>
+Tourist Places
+</title>
+</head>
+<body >
+	<div class="container">
+	<header class="h1">
+	<div><img src="logo.jpg" class="logo"/>
+	
+	<nav id="nav">
+		<ul>
+			<li><a href="index.html">HOME</a>|</li>
+			<li><a href="about.html">ABOUT</a>|</li>
+			<li><a href="touristplaces.html">TOURIST PLACES</a>|</li>
+			<li><a href="">PLACES TO STAY</a>|</li>
+			<li><a href="">EDUCATION</a>|</li>
+			<li><a href="">DEPARTMENT</a>|</li>
+		</ul>
+	</nav>
+	
+	</header>
+	<aside class="left">
+	<div>
+		<nav>
+			<ul>
+				<li><a href=""><h4>RFP for Gajoldoba</h4></a></li>
+				<li><a href=""><h4>Incentive scheme 2015</h4></a></li>
+				<li><a href=""><h4>Tenders</h4></a></li>
+				<li><a href=""><h4>Latest News</h4></a></li>
+				<li><a href=""><h4>Notifications</h4></a></li>
+				<li><a href=""><h4>Press Release</h4><a/></li>
+				<li><a href=""><h4>Reports and Publications</h4></a></li>
+				<li><a href=""><h4>Tourist Survey</h4></a></li>
+			</ul>
+		</nav>
+	</div>
+	<div>
+		<p><a href=""><h4>"LEGENDS OF BENGAL"</h4></a></p>
+		<p><a href=""><h4>"DOOARS CALLING"</h4></a></p>
+	</div>
+	
+	</aside>
+	<section class="contentabt">
+	<article class="abt_art">
+		
+		<header><h3>The Sunderbans</h3></header></article>
+		</section>
+	<footer class="foot">
+	<div>
+		<nav>
+			<ul>
+				<li>||&nbsp&nbsp&nbsp<a href="">HOME&nbsp</a>&nbsp&nbsp&nbsp||</li>
+				<li>||&nbsp&nbsp&nbsp<a href="">&nbspABOUT US&nbsp</a>&nbsp&nbsp&nbsp||</li>
+				<li>||&nbsp&nbsp&nbsp<a href="">&nbspONLINE BOOKING&nbsp</a>&nbsp&nbsp&nbsp||</li>
+				<li>||&nbsp&nbsp&nbsp<a href="">&nbspPLACES TO STAY&nbsp</a>&nbsp&nbsp&nbsp||</li>
+				<li>||&nbsp&nbsp&nbsp<a href="">&nbspCITIZEN CORNER&nbsp</a>&nbsp&nbsp&nbsp||</li>
+				<li>||&nbsp&nbsp&nbsp<a href="">&nbspGALLERY&nbsp</a>&nbsp&nbsp&nbsp||</li>
+			</ul>
+		</nav>
+	</div>
+	</footer>
+	</div>
+	<body>
+	</html>
+		
+	</section>
